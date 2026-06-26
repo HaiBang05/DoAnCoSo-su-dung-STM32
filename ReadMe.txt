@@ -1,0 +1,1 @@
+Đồ án sử dụng phần mềm AltiumDesigner, STM32Cubemx cho file .ioc và KeilV5 cho file .uvprojx
